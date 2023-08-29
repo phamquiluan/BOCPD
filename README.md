@@ -3,7 +3,7 @@
 Bayesian Changepoint Detection
 ==============================
 
-# Installation
+## Installation
 
 ```bash
 git clone https://github.com/phamquiluan/BOCPD.git
