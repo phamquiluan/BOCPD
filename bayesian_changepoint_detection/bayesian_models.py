@@ -132,5 +132,4 @@ def online_changepoint_detection(data, hazard_function, log_likelihood_class):
         log_likelihood_class.update_theta(x, t=t)
 
         maxes[t] = R[:, t].argmax()
-
     return R, maxes
