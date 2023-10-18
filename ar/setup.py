@@ -5,7 +5,7 @@ import bayesian_changepoint_detection
 setup(
     name='bayescd',
     version=bayesian_changepoint_detection.__version__,
-    description='Some Bayesian changepoint detection algorithms',
+    description='Bayesian changepoint detection algorithms',
     author='Johannes Kulick',
     author_email='mail@johanneskulick.net',
     url='http://github.com/hildensia/bayesian_changepoint_detection',
