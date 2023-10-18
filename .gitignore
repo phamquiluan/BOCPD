@@ -57,3 +57,9 @@ data
 *.swp
 fse-*
 debug
+
+# ignore all ipynb
+*.ipynb
+
+output*
+
