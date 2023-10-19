@@ -1,4 +1,4 @@
-
+[![Python package](https://github.com/phamquiluan/BOCPD/actions/workflows/python-package.yml/badge.svg)](https://github.com/phamquiluan/BOCPD/actions/workflows/python-package.yml)
 
 Bayesian Changepoint Detection
 ==============================
