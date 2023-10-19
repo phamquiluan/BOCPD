@@ -9,7 +9,7 @@ Bayesian Changepoint Detection
 
 - [ ] add demo jupyter notebook
 - [ ] add instruction (aka refine readme)
-- [ ] add robust bocpd
+- [ ] add robust bocpd https://arxiv.org/abs/2302.04759
 
 ## Installation
 
