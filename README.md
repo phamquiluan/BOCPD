@@ -5,13 +5,21 @@
 Bayesian Changepoint Detection
 ==============================
 
+## TODO
+
+- [ ] add demo jupyter notebook
+- [ ] add instruction (aka refine readme)
+- [ ] add robust bocpd
+
 ## Installation
 
+```bash
+pip install bocpd
+```
+
+## Install from source
 ```bash
 git clone https://github.com/phamquiluan/BOCPD.git
 cd BOCPD
 pip install -e .
-
-# or
-pip install git+ssh://git@github.com/phamquiluan/BOCPD.git
 ```
